@@ -1,6 +1,6 @@
 # MembershipIntro_Sunum
 
-Merhaba, MembershipIntro Projesini İstanbul - Beşiktaş Wissen Akademi'de kursiyerlik yaptığım süreçte yazdık. MembershipIntro projesini Aspnet MVC Core ile yazdığımız bir web projesidir.Bu web projesi telefon ekleme,silme,düzenleme gibi işlemleri yaptığımız bir projedir.Bunun dışında adminLTE sayfamız bulunmaktadır.Graphics sayfasında kaç adet telefon eklendiğini ve eklenen telefon tiplerini grafik üzerinde görebilmekteyiz.Kapsamı geniş olan bu projeyi belirli kurs sürecinde zaman koşullarına göre yazdık. Projenin yazılmaya devam eden bölümleri vardır. Bu proje ile amacımız gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
+Merhaba, MembershipIntro Projesini İstanbul - Beşiktaş Wissen Akademi'de kursiyerlik yaptığım süreçte yazdık. MembershipIntro projesi Aspnet MVC Core ile yazdığımız bir web projesidir.Bu web projesi telefon ekleme,silme,düzenleme gibi işlemleri yaptığımız bir projedir.Bunun dışında adminLTE sayfamız bulunmaktadır.Graphics sayfasında kaç adet telefon eklendiğini ve eklenen telefon tiplerini grafik üzerinde görebilmekteyiz.Kapsamı geniş olan bu projeyi belirli kurs sürecinde zaman koşullarına göre yazdık. Projenin yazılmaya devam eden bölümleri vardır. Bu proje ile amacımız gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
 
 Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
